@@ -2,7 +2,7 @@
 - 👀 I’m interested in sports & Exercise specially ⚽ 
 - 🌱 I’m currently learning python programming
 - 💞️ I’m looking to collaborate on every where 
-- 📫 How to reach me ... https://t.me/t_frbf & instagram : t_frbf
+- 📫 How to reach me ... https://t.me/t_frbf & instagram : https://instagram.com/t_frbf
 
 <!---
 tfrbf/tfrbf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
