@@ -1,8 +1,9 @@
 
 ## Hello World! :wave:
 
-**Im Taha, 4<sup>th</sup> year Electrical Engineering student**
-
+**Control student with interests in electronics! Betrayal of control? no never**
+**I'm Taha Farshbaf, a 4th year electrical engineering student at Tabriz University**
+**Currently I'm working on Robotics with @ebugsteam**
 
 <!---
 tfrbf/tfrbf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
